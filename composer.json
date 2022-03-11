@@ -1,5 +1,5 @@
 {
-  "name": "tendopay/laravel-dragonpay-api",
+  "name": "szymonsterczewski/laravel-dragonpay-api",
   "description": "DragonPay API Integration",
   "type": "library",
   "authors": [
